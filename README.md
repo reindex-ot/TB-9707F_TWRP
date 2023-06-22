@@ -16,9 +16,11 @@ Memory  | 128GB 8GB RAM, 256GB 12GB RAM & microSDXC
 Shipped Android Version | Android 11, ZUI 13 (CN)
 Battery | Li-Po 6550 mAh, non-removable
 Display | IPS LCD, 120Hz, Dolby Vision, HDR10, 500 nits
+
+# Copyright
 ```
-# Copyright (C) 2023 The Android Open Source Project
-# Copyright (C) 2023 SebaUbuntu's TWRP device tree generator
-#
-# SPDX-License-Identifier: Apache-2.0
+Copyright (C) 2023 The Android Open Source Project
+Copyright (C) 2023 SebaUbuntu's TWRP device tree generator
+
+SPDX-License-Identifier: Apache-2.0
 ```
