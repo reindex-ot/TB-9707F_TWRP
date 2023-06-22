@@ -17,7 +17,7 @@ Shipped Android Version | Android 11, ZUI 13 (CN)
 Battery | Li-Po 6550 mAh, non-removable
 Display | IPS LCD, 120Hz, Dolby Vision, HDR10, 500 nits
 
-# Copyright
+## Copyright
 ```
 Copyright (C) 2023 The Android Open Source Project
 Copyright (C) 2023 SebaUbuntu's TWRP device tree generator
