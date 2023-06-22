@@ -1,4 +1,4 @@
-# Android device tree for Lenovo Lenovo Legion Y700 (TB-9707F)
+# Android device tree for Lenovo Legion Y700 (TB-9707F)
 
 
 The Lenovo Legion Y700 (codenamed _"Lenovo TB-9707F"_) is a tablet from Lenovo.
